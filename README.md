@@ -1,4 +1,4 @@
-# IW-SOAV (Iteratice Weighted-Sum of Absolute Value)
+# IW-SOAV (Iterative Weighted-Sum of Absolute Value)
 MATLAB demo code of IW-SOAV for massive overloaded MIMO signal detection
 
 ## Author

@@ -2,7 +2,7 @@
 % Simulation for BER performance of IW-SOAV in LDPC coded MIMO
 %
 % Author:
-%   Ryo Hayakawa (e-mail: rhayakawa@sys.i.kyoto-u.ac.jp)
+%   Ryo Hayakawa
 % Article:
 %   Ryo Hayakawa and Kazunori Hayashi,
 %   "Convex Optimization Based Signal Detection for Massive Overloaded MIMO Systems,"
